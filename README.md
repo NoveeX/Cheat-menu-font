@@ -2,9 +2,13 @@
 
 A bunch of icons stored into a ttf & otf font for your own cheat
 
+## Preview
+![](https://raw.githubusercontent.com/NoveeX/Cheat-menu-font/main/Preview.png)
+##
 ### Letter to icon:
   - A - Crosshair
-  - B - Headshot
+  - B - Headshot!
+
   - C - Globe
   - D - Eye
   - E - Wrench and screwdriver
